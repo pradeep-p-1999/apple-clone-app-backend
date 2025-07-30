@@ -1,4 +1,4 @@
-namespace apple_clone_app_backend
+namespace apple_clone_app_backend.Models
 {
     public class WeatherForecast
     {

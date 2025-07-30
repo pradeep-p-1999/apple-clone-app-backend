@@ -1,3 +1,4 @@
+using apple_clone_app_backend.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace apple_clone_app_backend.Controllers
